@@ -1,4 +1,4 @@
-/*soi
+
 
 options symbolgen;
 %let type=Truck;
