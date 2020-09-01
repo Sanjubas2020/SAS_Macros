@@ -1,7 +1,7 @@
 
-/*Storing and Processing Text
+/*Storing and Processing Text*/
 
-SAS Macro Functions
+/*SAS Macro Functions
 Name	       Description
 %UPCASE	       Converts values to uppercase.
 %SUBSTR	       Extracts a substring from a character string.
