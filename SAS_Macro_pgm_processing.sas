@@ -1,6 +1,6 @@
 
 
-options symbolgen;
+options symbolgen; /*displays the results of resolving macro variable references. This option is useful for debugging*/
 %let type=Truck;
 %let hp=250;
 title1 "Car Type: &type";
