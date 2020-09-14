@@ -348,7 +348,7 @@ drop date;
 run;
 
 
-%let stock=intel;
+%let stock=ibm;
 %let year =2000;
 %let high= 60.00;
 
